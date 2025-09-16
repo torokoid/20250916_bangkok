@@ -370,7 +370,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、Wi-Fi交換から、生垣のお花達まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、街の電気屋さんから、生垣のお花達まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
