@@ -250,7 +250,7 @@ p.note { display: none; }
 <a href="20250916_042.JPG" target="_blank"><img src="20250916_042.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250916_043.JPG" target="_blank"><img src="20250916_043.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ピンクのお花はお寝坊さん、ほかのお花より2時間ほど遅れて目覚めるようです</span></h2>
+<h2><span class="yellow">ピンクのお花はお寝坊さん、お昼過ぎの目覚めのようです</span></h2>
 <a href="20250916_044.JPG" target="_blank"><img src="20250916_044.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250916_045.JPG" target="_blank"><img src="20250916_045.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250916_046.JPG" target="_blank"><img src="20250916_046.JPG" alt="サンプル画像" class="responsive-media"></a>
