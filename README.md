@@ -287,6 +287,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">新調した冷蔵庫</span></h2>
 <a href="20250916_065.JPG" target="_blank"><img src="20250916_065.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">冷媒が落ち着くのを待つため、設置4時間後の電源ONを勧められました</span></h2>
 <a href="20250916_066.JPG" target="_blank"><img src="20250916_066.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">晩御飯は市場のチャーハン</span></h2>
