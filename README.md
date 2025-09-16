@@ -292,7 +292,7 @@ p.note { display: none; }
 <h2><span class="yellow">晩御飯は市場のチャーハン</span></h2>
 <a href="20250916_067.JPG" target="_blank"><img src="20250916_067.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">市場の鮮魚は新鮮</span></h2>
+<h2><span class="yellow">市場の鮮魚は新鮮<br>画像クリックで動画再生します↓</span></h2>
 <a href="20250916_002.mov" target="_blank"><img src="20250916_001.png" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">16日、明け方の雨で濡れた朝のお花達</span></h2>
